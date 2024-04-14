@@ -53,7 +53,7 @@ This event is free and open to the public.
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97">
-      <img class="people-pic" src="https://minio.la.utexas.edu/colaweb-prod/person_files/0/770/beaver-200x300.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=kOJyJds1uw8XxRGoVtViB047UihJLCST%2F20240414%2Fnot-real-1%2Fs3%2Faws4_request&X-Amz-Date=20240414T214920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=adce28f7a288c68a5eb771c30ad47b9ab0152c9bdf361eef5acb0ffa75dbab4d">
+      <img class="people-pic" src="static/img/people/david-beaver.png">
     </a>
     <div class="people-name">
       <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97">David Beaver</a>
@@ -62,7 +62,7 @@ This event is free and open to the public.
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://campuspress.yale.edu/jasonstanley/">
-      <img class="people-pic" src="https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/272/files/2012/05/headshot-2erv9ad.jpg">
+      <img class="people-pic" src="./static/img/people/jason-stanley.png">
     </a>
     <div class="people-name">
       <a href="https://campuspress.yale.edu/jasonstanley/">Jason Stanley</a>
@@ -71,7 +71,7 @@ This event is free and open to the public.
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://comm.unc.edu/people/department-faculty/alice-e-marwick/">
-      <img class="people-pic" src="https://comm.unc.edu/wp-content/uploads/sites/388/2021/09/headshot_2021-scaled.jpg">
+      <img class="people-pic" src="static/img/people/alice-marwick.png">
     </a>
     <div class="people-name">
       <a href="https://comm.unc.edu/people/department-faculty/alice-e-marwick/">Alice Marwick</a>
