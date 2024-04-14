@@ -24,6 +24,14 @@ This event is free and open to the public.
 
 <br />
 
+
+<a href="https://forms.gle/cAvNbp9QJSbzRSbB7" style="text-decoration: none;">
+        <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; border: none; cursor: pointer;">
+            Registration Link
+        </button>
+    </a>
+
+
 <hr />
 
 <!-- Speakers 
