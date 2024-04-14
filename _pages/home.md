@@ -25,12 +25,13 @@ This event is free and open to the public.
 <br />
 
 
+<div style="text-align: center; margin-top: 20px;">
 <a href="https://forms.gle/cAvNbp9QJSbzRSbB7" style="text-decoration: none;">
-        <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; border: none; cursor: pointer;">
+        <button style="background-color: #FFA500; color: white; padding: 15px 30px; text-align: center; display: inline-block; font-size: 20px; border: none; cursor: pointer;">
             Registration Link
         </button>
     </a>
-
+</div>
 
 <hr />
 
