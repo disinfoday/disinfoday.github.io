@@ -35,72 +35,57 @@ This event is free and open to the public.
 
 <hr />
 
-<!-- Speakers 
+<!-- Speakers -->
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Speakers</h2>
+    <h2>Speakers and Panelists</h2>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://homes.cs.washington.edu/~yejin/">
-      <img class="people-pic" src="https://mosaic.allenai.org/assets/profile-photos/profile_yejinc.jpg">
+    <a href="https://andreasvlachos.github.io/">
+      <img class="people-pic" src="https://www.cst.cam.ac.uk/sites/www.cst.cam.ac.uk/files/images/profile/andreas_vlachos-web-3.jpg">
     </a>
     <div class="people-name">
-      <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
-      <h6>University of Washington</h6>
+      <a href="https://andreasvlachos.github.io/">Andreas Vlachos</a>
+      <h6>University of Cambridge</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cs.cmu.edu/~sherryw/">
-      <img class="people-pic" src="{{ "/static/img/people/sherrywu.jpeg" | prepend:site.baseurl }}">
+    <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97">
+      <img class="people-pic" src="https://minio.la.utexas.edu/colaweb-prod/person_files/0/770/beaver-200x300.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=kOJyJds1uw8XxRGoVtViB047UihJLCST%2F20240414%2Fnot-real-1%2Fs3%2Faws4_request&X-Amz-Date=20240414T214920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=adce28f7a288c68a5eb771c30ad47b9ab0152c9bdf361eef5acb0ffa75dbab4d">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.cmu.edu/~sherryw/">Sherry Tongshuang Wu</a>
-      <h6>Carnegie Mellon University</h6>
+      <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97">David Beaver</a>
+      <h6>The University of Texas at Austin</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cs.princeton.edu/~karthikn/">
-      <img class="people-pic" src="{{ "/static/img/people/karthikn.jpg" | prepend:site.baseurl }}">
+    <a href="https://campuspress.yale.edu/jasonstanley/">
+      <img class="people-pic" src="https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/272/files/2012/05/headshot-2erv9ad.jpg">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>
-      <h6>Princeton University</h6>
+      <a href="https://campuspress.yale.edu/jasonstanley/">Jason Stanley</a>
+      <h6>Yale University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://web.stanford.edu/~icard/">
-      <img class="people-pic" src="https://philosophy.stanford.edu/sites/philosophy/files/styles/hs_medium_square_360x360/public/media/image/TIcard-photo.jpg?h=e98ce842&itok=kSJ6I6Bl">
+    <a href="https://comm.unc.edu/people/department-faculty/alice-e-marwick/">
+      <img class="people-pic" src="https://comm.unc.edu/wp-content/uploads/sites/388/2021/09/headshot_2021-scaled.jpg">
     </a>
     <div class="people-name">
-      <a href="https://web.stanford.edu/~icard/">Thomas Icard</a>
-      <h6>Stanford University</h6>
+      <a href="https://comm.unc.edu/people/department-faculty/alice-e-marwick/">Alice Marwick</a>
+      <h6>University of North Carolina, Chapel Hill</h6>
     </div>
   </div>
 </div> 
 
-<hr /> -->
-
   
-<div class="col-xs-12"  id="dates">
-    <h2>Important Dates</h2>  
+<div class="col-xs-12"  id="schedule">
+    <h2>Schedule</h2>  
 </div>
 
-<br>
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Workshop Date</td>
-          <td>May 2, 2024</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
+<p>The workshop will take place <b>May 2, 2024, 9am-12pm US Central Time</b>. More detailed schedule coming soon!
 
 <hr />
 
