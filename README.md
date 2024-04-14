@@ -1,4 +1,4 @@
-# nl-reasoning-workshop.github.io
-Webpage source files for Natural Language Reasoning and Structured Explanations
+# disinfoday.github.io
+Webpage source files for Disinfo Day @ UT Austin
 
-https://nl-reasoning-workshop.github.io/
+https://disinfoday.github.io/
