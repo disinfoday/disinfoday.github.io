@@ -17,7 +17,7 @@ acknowledgements: ""
 
         Hosted by The University of Texas at Austin’s Good Systems’ <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/designing-responsible-ai-technologies-to-curb-disinformation">“Designing Responsible AI Technologies to Curb Disinformation”</a> research team, this virtual event brings together researchers and thought leaders working across disciplines and sectors to discuss approaches to curbing the spread of digital disinformation. Data scientist and engineer Dr. David Corney will deliver a keynote, which will be followed by two panels exploring topics including bias and fairness and working to address the gap between fact checkers’ needs and existing technology. Viewers are encouraged to participate in interactive Q&As following each session.
 
-This event is free and open to the public.
+<p><b>This event is free and open to the public. Please register using the link below to receive the Zoom link for the event.</b> The Zoom link will be sent the day before.
         </p>
     </div>
 </div>
