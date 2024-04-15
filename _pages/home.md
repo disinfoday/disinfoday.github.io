@@ -136,7 +136,7 @@ acknowledgements: ""
 <hr />
  
 
-<div class="col-xs-12"  id="speaker-bios">
+<div id="speaker-bios">
     <h2>Speaker Bios and Abstracts</h2>  
     <h3>Andreas Vlachos: Fact-checking as a conversation</h3>
 
@@ -190,7 +190,7 @@ acknowledgements: ""
   </div>
 </div>
 
-<p>This event is organized by <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/designing-responsible-ai-technologies-to-curb-disinformation">Designing Responsible AI Technologies to Curb Disinformation</a>, a ><a href="https://bridgingbarriers.utexas.edu/good-systems">Good Systems</a> project.
+<p>This event is organized by <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/designing-responsible-ai-technologies-to-curb-disinformation">Designing Responsible AI Technologies to Curb Disinformation</a>, a <a href="https://bridgingbarriers.utexas.edu/good-systems">Good Systems</a> project.
 
 
 <div class="row">
