@@ -136,7 +136,7 @@ This event is free and open to the public.
 <hr />
  
 
-<div class="col-xs-12"  id="schedule">
+<div class="col-xs-12"  id="speaker-bios">
     <h2>Speaker Bios and Abstracts</h2>  
     <h3>Andreas Vlachos: Fact-checking as a conversation</h3>
 
@@ -159,6 +159,8 @@ This event is free and open to the public.
 
  <br>
  <hr/>
+
+</div>
 
 <!-- Organizers -->
 <div class="row" id="organizers">
