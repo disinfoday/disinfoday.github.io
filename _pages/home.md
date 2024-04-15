@@ -87,6 +87,37 @@ This event is free and open to the public.
 
 <p>The workshop will take place <b>May 2, 2024, 9am-12pm US Central Time</b>. More detailed schedule coming soon!
 
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Event</th>
+    </tr>
+    <tr>
+        <td>9:00am-9:10am</td>
+        <td>Welcome</td>
+    </tr>
+    <tr>
+        <td>9:10am-9:45am</td>
+        <td>Invited talk 1: Andreas Vlachos "Fact-checking as a conversation"</td>
+    </tr>
+    <tr>
+        <td>9:45am-10:20am</td>
+        <td>Invited talk 2: David Beaver/Jason Stanley</td>
+    </tr>
+    <tr>
+        <td>10:20am-10:30am</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>10:30am-11:05am</td>
+        <td>Invited talk 3: Alice Marwick</td>
+    </tr>
+    <tr>
+        <td>11:05am-12:00pm</td>
+        <td>Panel</td>
+    </tr>
+</table>
+
 <hr />
 
 
