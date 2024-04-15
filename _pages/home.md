@@ -160,8 +160,6 @@ acknowledgements: ""
  <br>
  <hr/>
 
-</div>
-
 <!-- Organizers -->
 <div class="row" id="organizers">
   <div class="col-xs-12">
