@@ -85,7 +85,7 @@ This event is free and open to the public.
     <h2>Schedule</h2>  
 </div>
 
-<p>The workshop will take place <b>May 2, 2024, 9am-12pm US Central Time</b>. More detailed schedule coming soon!
+<p>The workshop will take place <b>May 2, 2024, 9am-12pm US Central Time</b>.
 
 <style>
     table {
@@ -134,6 +134,25 @@ This event is free and open to the public.
 </table>
 
 <hr />
+ 
+
+<div class="col-xs-12"  id="schedule">
+    <h2>Speaker Bios and Abstracts</h2>  
+    <h3>Andreas Vlachos</h3>
+
+    <p><b>Fact-checking as a conversation</b>
+
+<p>Abstract: Misinformation is considered one of the major challenges of our times resulting in numerous efforts against it.  Fact-checking, the task of assessing whether a claim is true or false, is considered a key in reducing its impact. In the first part of this talk I will present our recent and ongoing work on automating this task using natural language processing, moving beyond simply classifying claims as true or false in the following aspects: incorporating tabular information, neurosymbolic inference, and using a search engine as a source of evidence. In the second part of this talk, I will present an alternative approach to combatting misinformation via dialogue agents, and present results on how internet users engage in constructive disagreements and problem-solving deliberation.
+
+<p>Bio: Vlachos is a professor of Natural Language Processing and Machine Learning at the Department of Computer Science and Technology at the University of Cambridge and a Dinesh Dhamija fellow of Fitzwilliam College. Current projects include dialogue modelling, automated fact checking and imitation learning. Vlachos has also worked on semantic parsing, natural language generation and summarization, language modelling, information extraction, active learning, clustering and biomedical text mining. His research team is supported by grants from ERC, EPSRC, ESRC, Facebook, Amazon, Google, Huawei, the Alan Turing Institute and the Isaac Newton Trust.
+    
+    <h3>David Beaver</h3>
+    
+
+    <h3>Jason Stanley</h3>
+
+    <h3>Alice Marwick</h3>
+</div>
 
 
 <!-- Organizers -->
@@ -163,3 +182,14 @@ This event is free and open to the public.
     </div>
   </div>
 </div>
+
+<p>This event is organized by <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/designing-responsible-ai-technologies-to-curb-disinformation">Designing Responsible AI Technologies to Curb Disinformation</a>, a ><a href="https://bridgingbarriers.utexas.edu/good-systems">Good Systems</a> project.
+
+
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+      <img src="./static/img/good-systems.png">
+  </div>
+</div>
+
+
