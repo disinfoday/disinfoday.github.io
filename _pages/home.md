@@ -87,6 +87,21 @@ This event is free and open to the public.
 
 <p>The workshop will take place <b>May 2, 2024, 9am-12pm US Central Time</b>. More detailed schedule coming soon!
 
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+
 <table>
     <tr>
         <th>Time</th>
