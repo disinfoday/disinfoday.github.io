@@ -128,7 +128,7 @@ acknowledgements: ""
     </tr>
     <tr>
         <td>11:05am-12:00pm</td>
-        <td>Panel</td>
+        <td>Panel Discussion featuring invited speakers</td>
     </tr>
 </table>
 
