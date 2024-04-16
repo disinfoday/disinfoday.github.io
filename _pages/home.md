@@ -124,7 +124,7 @@ acknowledgements: ""
     </tr>
     <tr>
         <td>10:30am-11:05am</td>
-        <td>Invited talk 3: Alice Marwick:Down the Rabbit Hole? Disinformation and Far-Right Online Radicalization</td>
+        <td>Invited talk 3: Alice Marwick "Down the Rabbit Hole? Disinformation and Far-Right Online Radicalization"</td>
     </tr>
     <tr>
         <td>11:05am-12:00pm</td>
@@ -138,27 +138,31 @@ acknowledgements: ""
 <div id="speaker-bios">
     <h2>Speaker Bios and Abstracts</h2>  
     <h3>Andreas Vlachos: Fact-checking as a conversation</h3>
+    <br/>
 
-<p>Abstract: Misinformation is considered one of the major challenges of our times resulting in numerous efforts against it.  Fact-checking, the task of assessing whether a claim is true or false, is considered a key in reducing its impact. In the first part of this talk I will present our recent and ongoing work on automating this task using natural language processing, moving beyond simply classifying claims as true or false in the following aspects: incorporating tabular information, neurosymbolic inference, and using a search engine as a source of evidence. In the second part of this talk, I will present an alternative approach to combatting misinformation via dialogue agents, and present results on how internet users engage in constructive disagreements and problem-solving deliberation.
+<p><b>Abstract:</b> Misinformation is considered one of the major challenges of our times resulting in numerous efforts against it.  Fact-checking, the task of assessing whether a claim is true or false, is considered a key in reducing its impact. In the first part of this talk I will present our recent and ongoing work on automating this task using natural language processing, moving beyond simply classifying claims as true or false in the following aspects: incorporating tabular information, neurosymbolic inference, and using a search engine as a source of evidence. In the second part of this talk, I will present an alternative approach to combatting misinformation via dialogue agents, and present results on how internet users engage in constructive disagreements and problem-solving deliberation.
 
-<p>Bio: Vlachos is a professor of Natural Language Processing and Machine Learning at the Department of Computer Science and Technology at the University of Cambridge and a Dinesh Dhamija fellow of Fitzwilliam College. Current projects include dialogue modelling, automated fact checking and imitation learning. Vlachos has also worked on semantic parsing, natural language generation and summarization, language modelling, information extraction, active learning, clustering and biomedical text mining. His research team is supported by grants from ERC, EPSRC, ESRC, Facebook, Amazon, Google, Huawei, the Alan Turing Institute and the Isaac Newton Trust.
+<p><b>Bio:</b> Vlachos is a professor of Natural Language Processing and Machine Learning at the Department of Computer Science and Technology at the University of Cambridge and a Dinesh Dhamija fellow of Fitzwilliam College. Current projects include dialogue modelling, automated fact checking and imitation learning. Vlachos has also worked on semantic parsing, natural language generation and summarization, language modelling, information extraction, active learning, clustering and biomedical text mining. His research team is supported by grants from ERC, EPSRC, ESRC, Facebook, Amazon, Google, Huawei, the Alan Turing Institute and the Isaac Newton Trust.
  
  <br>
  <hr/>
     <h3>David Beaver</h3>
+    <br/>
     
 
  <br>
  <hr/>
     <h3>Jason Stanley</h3>
+    <br/>
 
  <br>
  <hr/>
     <h3>Alice Marwick: Down the Rabbit Hole? Disinformation and Far-Right Online Radicalization</h3>
+    <br/>
 
-<p>Abstract: The popular image of far-right radicalization involves a young man visiting shadowy websites that “radicalize” him into extremism and, in the worst cases, cause him to commit political violence. But a half-century of research into the effects of media show that people’s beliefs rarely change from immediate exposure to media, be it television, books, or YouTube videos. This talk explores the relationship between far-right disinformation and belief in extremist ideas. I discuss what makes people susceptible to far-right, fringe, and conspiratorial disinformation, how they learn to see disinformation as “evidence,” and how we can begin to tackle this problem.
+<p><b>Abstract:</b> The popular image of far-right radicalization involves a young man visiting shadowy websites that “radicalize” him into extremism and, in the worst cases, cause him to commit political violence. But a half-century of research into the effects of media show that people’s beliefs rarely change from immediate exposure to media, be it television, books, or YouTube videos. This talk explores the relationship between far-right disinformation and belief in extremist ideas. I discuss what makes people susceptible to far-right, fringe, and conspiratorial disinformation, how they learn to see disinformation as “evidence,” and how we can begin to tackle this problem.
 
-<p>Bio: Alice E. Marwick (PhD, New York University) is the Microsoft Visiting Professor at the Center for Information Technology Policy at Princeton University, an associate professor in the Department of Communication at the University of North Carolina at Chapel Hill, and principal researcher at its Center for Information, Technology, and Public Life, which she co-founded. She researches the social, political, and cultural implications of popular social media technologies and runs the Disinformation in Context (DISC) Lab at CITAP, which uses ethnographic, qualitative, and computational methods to investigate communities in which disinformation is created and spread. Marwick’s most recent book, The Private is Political (Yale 2023), examines how the networked nature of online privacy disproportionately impacts marginalized individuals in terms of gender, race, sexuality, and socio-economic status.
+<p><b>Bio:</b> Alice E. Marwick (PhD, New York University) is the Microsoft Visiting Professor at the Center for Information Technology Policy at Princeton University, an associate professor in the Department of Communication at the University of North Carolina at Chapel Hill, and principal researcher at its Center for Information, Technology, and Public Life, which she co-founded. She researches the social, political, and cultural implications of popular social media technologies and runs the Disinformation in Context (DISC) Lab at CITAP, which uses ethnographic, qualitative, and computational methods to investigate communities in which disinformation is created and spread. Marwick’s most recent book, The Private is Political (Yale 2023), examines how the networked nature of online privacy disproportionately impacts marginalized individuals in terms of gender, race, sexuality, and socio-economic status.
 
 
 
