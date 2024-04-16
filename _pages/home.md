@@ -70,7 +70,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://comm.unc.edu/people/department-faculty/alice-e-marwick/">
-      <img class="people-pic" src="static/img/people/alice-marwick.png">
+      <img class="people-pic" src="static/img/people/alice-marwick2.jpeg">
     </a>
     <div class="people-name">
       <a href="https://comm.unc.edu/people/department-faculty/alice-e-marwick/">Alice Marwick</a>
