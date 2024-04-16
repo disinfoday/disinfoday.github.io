@@ -124,7 +124,7 @@ acknowledgements: ""
     </tr>
     <tr>
         <td>10:30am-11:05am</td>
-        <td>Invited talk 3: Alice Marwick</td>
+        <td>Invited talk 3: Alice Marwick:Down the Rabbit Hole? Disinformation and Far-Right Online Radicalization</td>
     </tr>
     <tr>
         <td>11:05am-12:00pm</td>
@@ -154,7 +154,13 @@ acknowledgements: ""
 
  <br>
  <hr/>
-    <h3>Alice Marwick</h3>
+    <h3>Alice Marwick: Down the Rabbit Hole? Disinformation and Far-Right Online Radicalization</h3>
+
+<p>Abstract: The popular image of far-right radicalization involves a young man visiting shadowy websites that “radicalize” him into extremism and, in the worst cases, cause him to commit political violence. But a half-century of research into the effects of media show that people’s beliefs rarely change from immediate exposure to media, be it television, books, or YouTube videos. This talk explores the relationship between far-right disinformation and belief in extremist ideas. I discuss what makes people susceptible to far-right, fringe, and conspiratorial disinformation, how they learn to see disinformation as “evidence,” and how we can begin to tackle this problem.
+
+<p>Bio: Alice E. Marwick (PhD, New York University) is the Microsoft Visiting Professor at the Center for Information Technology Policy at Princeton University, an associate professor in the Department of Communication at the University of North Carolina at Chapel Hill, and principal researcher at its Center for Information, Technology, and Public Life, which she co-founded. She researches the social, political, and cultural implications of popular social media technologies and runs the Disinformation in Context (DISC) Lab at CITAP, which uses ethnographic, qualitative, and computational methods to investigate communities in which disinformation is created and spread. Marwick’s most recent book, The Private is Political (Yale 2023), examines how the networked nature of online privacy disproportionately impacts marginalized individuals in terms of gender, race, sexuality, and socio-economic status.
+
+
 
  <br>
  <hr/>
