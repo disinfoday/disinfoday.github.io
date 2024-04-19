@@ -1,7 +1,7 @@
 ---
 layout: project
 urltitle:  "Disinfo Day"
-title: "Disinfo Day Workshop @ UT Austin"
+title: "Disinformation Day @ UT Austin"
 categories: workshop, 2024 
 permalink: /
 bibtex: true
