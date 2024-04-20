@@ -146,14 +146,13 @@ acknowledgements: ""
  
  <br>
  <hr/>
-    <h3>David Beaver</h3>
+    <h3>David Beaver & Jason Stanley: Fighting Disinformation: another Noble Experiment?</h3>
     <br/>
-    
+<p><b>Abstract:</b> We discuss a web of connected assumptions underlying the contemporary focus on the anti-Democratic effects of disinformation, and the use of technology to fight it. The issues are philosophical, psychological, political, and practical. To turn to metaphor to examine our assumptions: is disinformation to be thought of as a disease that is spreading, and that can be cured by careful message sterilization that will stop its spread? Or is disinformation the result of an underlying addiction? If so, who are the addicts, and how can they be helped? Does the fight against disinformation unduly privilege truth above emotion and social connection? Are the real problems best tackled at the level of purity of individual messages, or at the level of collective well-being of social groups? What types of communicative bias can be controlled (if control is what we should be doing) by highlighting individual message purity? Here we note a wealth of literature in psychology and political science suggesting that systematically biased messaging does not require the communication of false facts at all. The implications would seem to be dire: would a world where disinformation fighting machines prevented even a single untruth from flashing in front of us be a better world to live in?
 
- <br>
- <hr/>
-    <h3>Jason Stanley</h3>
-    <br/>
+<p><b>Bio:</b> <b>David Beaver</b> and <b>Jason Stanley</b> are the authors of <i>The Politics of Language</i>, Princeton University Press, 2023. <br/>
+<b>Beaver</b> is professor of linguistics and philosophy at the University of Texas at Austin and director of the UT Cognitive Science Program. His books include <i>Presupposition and Assertion in Dynamic Semantics</i> and <i>Sense and Sensitivity: How Focus Determines Meaning</i>.  <br/>
+<b>Stanley</b> is the Jacob Urowsky Professor of Philosophy at Yale University. He is the author of <i>How Fascism Works: The Politics of Us and Them</i> and <i>How Propaganda Works</i> (Princeton), among other books.
 
  <br>
  <hr/>
