@@ -116,7 +116,7 @@ acknowledgements: ""
     </tr>
     <tr>
         <td>9:45am-10:20am</td>
-        <td>Invited talk 2: David Beaver/Jason Stanley</td>
+        <td>Invited talk 2: David Beaver & Jason Stanley "Fighting Disinformation: another Noble Experiment?"</td>
     </tr>
     <tr>
         <td>10:20am-10:30am</td>
