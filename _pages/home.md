@@ -116,7 +116,7 @@ acknowledgements: ""
     </tr>
     <tr>
         <td>9:45am-10:20am</td>
-        <td>Invited talk 2: David Beaver & Jason Stanley "Fighting Disinformation: another Noble Experiment?"</td>
+        <td>Invited talk 2: David Beaver & Jason Stanley "Fighting Disinformation: Another Noble Experiment?"</td>
     </tr>
     <tr>
         <td>10:20am-10:30am</td>
@@ -146,7 +146,7 @@ acknowledgements: ""
  
  <br>
  <hr/>
-    <h3>David Beaver & Jason Stanley: Fighting Disinformation: another Noble Experiment?</h3>
+    <h3>David Beaver & Jason Stanley: Fighting Disinformation: Another Noble Experiment?</h3>
     <br/>
 <p><b>Abstract:</b> We discuss a web of connected assumptions underlying the contemporary focus on the anti-Democratic effects of disinformation, and the use of technology to fight it. The issues are philosophical, psychological, political, and practical. To turn to metaphor to examine our assumptions: is disinformation to be thought of as a disease that is spreading, and that can be cured by careful message sterilization that will stop its spread? Or is disinformation the result of an underlying addiction? If so, who are the addicts, and how can they be helped? Does the fight against disinformation unduly privilege truth above emotion and social connection? Are the real problems best tackled at the level of purity of individual messages, or at the level of collective well-being of social groups? What types of communicative bias can be controlled (if control is what we should be doing) by highlighting individual message purity? Here we note a wealth of literature in psychology and political science suggesting that systematically biased messaging does not require the communication of false facts at all. The implications would seem to be dire: would a world where disinformation fighting machines prevented even a single untruth from flashing in front of us be a better world to live in?
 
