@@ -15,7 +15,7 @@ acknowledgements: ""
     <div class="col-xs-12">
         <p>
 
-        Hosted by The University of Texas at Austin’s Good Systems’ <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/designing-responsible-ai-technologies-to-curb-disinformation">“Designing Responsible AI Technologies to Curb Disinformation”</a> research team, this virtual event brings together researchers and thought leaders working across disciplines and sectors, focusing on developing AI tools for use by journalists, fact-checkers, and researchers. The event will feature three keynote talks and a panel discussion covering a wide range of topics. Viewers are encouraged to participate in interactive Q&As following each session.</p>
+        Hosted by The University of Texas at Austin’s Good Systems’ <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/designing-responsible-ai-technologies-to-curb-disinformation">“Designing Responsible AI Technologies to Protect Information Integrity”</a> research team, this virtual event brings together researchers and thought leaders working across disciplines and sectors, focusing on developing AI tools for use by journalists, fact-checkers, and researchers. The event will feature three keynote talks and a panel discussion covering a wide range of topics. Viewers are encouraged to participate in interactive Q&As following each session.</p>
 
 <p><b>This event is free and open to the public. Please register using the link below to receive the Zoom link for the event.</b> The Zoom link will be sent the day before.</p>
     </div>
