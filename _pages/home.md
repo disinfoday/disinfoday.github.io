@@ -112,11 +112,11 @@ acknowledgements: ""
     </tr>
     <tr>
         <td>9:10am-9:45am</td>
-        <td>Invited talk 1: Andreas Vlachos "Fact-checking as a conversation"</td>
+        <td>Invited talk 1: Andreas Vlachos "Fact-checking as a conversation" <a href="./static/slides/vlachos.pdf">[slides]</a></td>
     </tr>
     <tr>
         <td>9:45am-10:20am</td>
-        <td>Invited talk 2: David Beaver & Jason Stanley "Fighting Disinformation: Another Noble Experiment?"</td>
+        <td>Invited talk 2: David Beaver & Jason Stanley "Fighting Disinformation: Another Noble Experiment?" <a href="./static/slides/beaver.pdf">[slides]</a></td>
     </tr>
     <tr>
         <td>10:20am-10:30am</td>
